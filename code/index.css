@@ -141,8 +141,9 @@ template > .sub-titles {
 }
 
 .titleMedShelfs {
-    font-size: 0.9em;
-    right: 16vw;
+    font-size: 0.8em;
+    right: 17vw;
+    top: 7vh;
 }
 
 .titelMedId {
