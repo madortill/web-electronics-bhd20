@@ -177,7 +177,7 @@ let bSearchScreen = false;
 let QUESTIONS = [];
 
 // const
-const HEADLINE = "שם הלומדה";
+const HEADLINE = "אמצעים אופטיים";
 
 /* loading function
 --------------------------------------------------------------
